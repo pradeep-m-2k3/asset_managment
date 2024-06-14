@@ -14,7 +14,7 @@ public class AssetsDTO {
     private String serialNumber;
     private String warranty;
 
-    // Default constructor
+    // Default constructor is here
     public AssetsDTO() {}
 
     // Getters and setters for all fields
